@@ -19,7 +19,12 @@
             <a href="./pages/pricing.php">Pricing</a>
             <a href="./pages/about.php">About Us</a>
             <a href="./pages/contact.php">Contact Us</a>
+<<<<<<< Updated upstream
            <div class="dropdown">
+=======
+            <!-- <a href="./pages/login.php">Login</a> -->$_COOKIE
+             <div class="dropdown">
+>>>>>>> Stashed changes
                 <a onclick="toggleDropdown()">Login</a>
                 <div id="loginDropdown" class="dropdown-content">
                 <a href="./pages/user_login.php">User Login</a>

@@ -37,7 +37,8 @@
                     <li class="offers">1 hour/month Training And Gym Facility</li>
                     <li class="offers">1 time quality food a week</li>
                     <li class="offers">Checkup 1 per 3 months</li>
-                    <li class="grey"><a href="#" class="button">Buy Now</a></li>
+                    <li class="grey"><a href="buy-now.php?plan=Basic" class="button">Buy Now</a></li>
+
                 </ul>
             </div>
 
