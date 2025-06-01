@@ -5,22 +5,29 @@
     <div class="content" style="max-width: 900px; margin: auto;">
         <p style="font-weight: bold; font-size: 20px;">
             Our expert groomers provide full grooming services for your furry friends, including haircuts, nail trimming, ear cleaning, and more. Keep your pet healthy and stylish!
-        </p><
+        </p>
         <div>
-        <ul style="list-style-type: none; padding: 0;">
-            <li style="font-weight: bold; font-size: 18px; margin-bottom: 15px; display: flex; align-items: center; justify-content: space-between; background: #f2f2f2; padding: 10px 15px; border-radius: 8px;">
-                Bathing and blow-dry
-                <a href="#" style="background-color:rgb(251, 139, 83); color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold;">Add</a>
-            </li>
-            <li style="font-weight: bold; font-size: 18px; margin-bottom: 15px; display: flex; align-items: center; justify-content: space-between; background: #f2f2f2; padding: 10px 15px; border-radius: 8px;">
-                Fur styling and nail trimming
-                <a href="#" style="background-color:rgb(251, 139, 83); color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold;">Add</a>
-            </li>
-            <li style="font-weight: bold; font-size: 18px; margin-bottom: 15px; display: flex; align-items: center; justify-content: space-between; background: #f2f2f2; padding: 10px 15px; border-radius: 8px;">
-                Ear and teeth cleaning
-                <a href="#" style="background-color:rgb(251, 139, 83); color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold;">Add</a>
-            </li>
-        </ul>
-        <div>
+            <ul style="list-style-type: none; padding: 0;">
+                <li style="font-weight: bold; font-size: 18px; margin-bottom: 15px; display: flex; align-items: center; justify-content: space-between; background: #f2f2f2; padding: 10px 15px; border-radius: 8px;">
+                    Bathing and blow-dry
+                    <a href="#" style="background-color:rgb(251, 139, 83); color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold;">Add</a>
+                </li>
+                <li style="font-weight: bold; font-size: 18px; margin-bottom: 15px; display: flex; align-items: center; justify-content: space-between; background: #f2f2f2; padding: 10px 15px; border-radius: 8px;">
+                    Fur styling and nail trimming
+                    <a href="#" style="background-color:rgb(251, 139, 83); color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold;">Add</a>
+                </li>
+                <li style="font-weight: bold; font-size: 18px; margin-bottom: 15px; display: flex; align-items: center; justify-content: space-between; background: #f2f2f2; padding: 10px 15px; border-radius: 8px;">
+                    Ear and teeth cleaning
+                    <a href="#" style="background-color:rgb(251, 139, 83); color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold;">Add</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- Back button -->
+        <div style="text-align: center; margin-top: 30px;">
+            <a href="services.php" style="background-color: rgb(251, 139, 83); color: white; padding: 10px 25px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 16px;">
+                ← Back to Services
+            </a>
+        </div>
     </div>
 </section>

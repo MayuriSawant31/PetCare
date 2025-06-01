@@ -6,16 +6,28 @@
         <p style="font-weight: bold; font-size: 20px;">
             Our Pet Boarding facility provides safe, comfortable, and clean accommodations for your pet. With regular feeding schedules, playtime, and 24/7 supervision, we make your pet feel at home even when you're away.
         </p>
-        <ul style="list-style-type: none; padding: 0;">
-            <li style="margin: 20px 0; background: #f2f2f2; padding: 15px; border-left: 5px solid #ff6b6b; border-radius: 8px; font-weight: bold; font-size: 18px;">
-                Spacious and secure rooms
-            </li>
-            <li style="margin: 20px 0; background: #f2f2f2; padding: 15px; border-left: 5px solid #ff6b6b; border-radius: 8px; font-weight: bold; font-size: 18px;">
-                Daily walks and play sessions
-            </li>
-            <li style="margin: 20px 0; background: #f2f2f2; padding: 15px; border-left: 5px solid #ff6b6b; border-radius: 8px; font-weight: bold; font-size: 18px;">
-                Veterinarian available on call
-            </li>
-        </ul>
+        <div>
+            <ul style="list-style-type: none; padding: 0;">
+                <li style="font-weight: bold; font-size: 18px; margin-bottom: 15px; display: flex; align-items: center; justify-content: space-between; background: #f2f2f2; padding: 10px 15px; border-radius: 8px;">
+                    Spacious and secure rooms
+                    <a href="#" style="background-color: rgb(251, 139, 83); color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold;">Add</a>
+                </li>
+                <li style="font-weight: bold; font-size: 18px; margin-bottom: 15px; display: flex; align-items: center; justify-content: space-between; background: #f2f2f2; padding: 10px 15px; border-radius: 8px;">
+                    Daily walks and play sessions
+                    <a href="#" style="background-color: rgb(251, 139, 83); color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold;">Add</a>
+                </li>
+                <li style="font-weight: bold; font-size: 18px; margin-bottom: 15px; display: flex; align-items: center; justify-content: space-between; background: #f2f2f2; padding: 10px 15px; border-radius: 8px;">
+                    Veterinarian available on call
+                    <a href="#" style="background-color: rgb(251, 139, 83); color: white; padding: 8px 15px; border-radius: 5px; text-decoration: none; font-weight: bold;">Add</a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- Back button -->
+        <div style="text-align: center; margin-top: 30px;">
+            <a href="services.php" style="background-color: rgb(251, 139, 83); color: white; padding: 10px 25px; border-radius: 5px; text-decoration: none; font-weight: bold; font-size: 16px;">
+                ← Back to Services
+            </a>
+        </div>
     </div>
 </section>

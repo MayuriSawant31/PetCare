@@ -19,7 +19,13 @@
             <a href="./pages/pricing.php">Pricing</a>
             <a href="./pages/about.php">About Us</a>
             <a href="./pages/contact.php">Contact Us</a>
-            <a href="./pages/login.php">Login</a>
+           <div class="dropdown">
+                <a onclick="toggleDropdown()">Login</a>
+                <div id="loginDropdown" class="dropdown-content">
+                <a href="./pages/user_login.php">User Login</a>
+                <a href="./pages/admin_login.php">Admin Login</a>
+                </div>
+            </div>
         </nav>
         <i id="menu-btn" class="fas fa-bars"></i>
     </header>
